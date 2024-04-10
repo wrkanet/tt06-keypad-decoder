@@ -3,11 +3,11 @@
 # Keypad Decoder for Tiny Tapeout 6
 
 A keypad scanner similar to the standard chips like 74C922, ADP5586, or LM8330.
-But much simpler since this is just an educational project.
+But much simpler, since this is just an educational project.
 
 ## Simulation
 
-A digital simulation of this design can be tried in this [Wokwi simulator](https://wokwi.com/projects/394618582085551105).
+A digital simulation of this project can be tried in this [Wokwi simulator](https://wokwi.com/projects/394618582085551105).
 
 ![Keypad Decoder in Wokwi](/docs/KeypadDecoderInWokwi.png?raw=true "Keypad Decoder in Wokwi")
 
