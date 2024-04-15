@@ -10,7 +10,7 @@ The output of the 16-bit register is then converted to the
 There are no debouncing, latching or some other advanced
 features.
 
-![Block Diagram](/BlockDiagram.png?raw=true "Block Diagram")
+![Block Diagram](/docs/BlockDiagram.png?raw=true "Block Diagram")
 
 ## How to test
 
@@ -23,4 +23,4 @@ on the 7-segment display.
 
 Keypad matrix 4x4. For example:
 
-![Keypad matrix 4x4](/KeypadMatrix4x4.png?raw=true "Keypad matrix 4x4")
+![Keypad matrix 4x4](/docs/KeypadMatrix4x4.png?raw=true "Keypad matrix 4x4")
