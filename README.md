@@ -3,7 +3,7 @@
 # Keypad Decoder for Tiny Tapeout 6
 
 A keypad scanner similar to the standard chips like 74C922, ADP5586, or LM8330, but much simpler. \
-This is just an experimental and educational project.
+It is just an experimental and educational project.
 
 ## Simulation
 
@@ -13,11 +13,13 @@ A digital simulation of the project can be viewed and tried in this [Wokwi simul
 
 ## Synthesis
 
+The Wokwi design is synthesised with [OpenLane](https://github.com/efabless/openlane) and GitHub actions.
+
 ![Keypad Decoder on Chip](/docs/KeypadDecoderOnChip.png?raw=true "Keypad Decoder on Chip")
 
 ## Documentation
 
-A few words more about this digital design can be found in [the project documentation](docs/info.md).
+A few words more about this digital design can be found in the project [documentation](docs/info.md).
 
 ## What is Tiny Tapeout?
 
@@ -29,4 +31,4 @@ To learn more and get started, visit https://tinytapeout.com.
 
 Wokwi is an online Electronics simulator. It's a great tool for makers, hobbyist, as well as for professionals.
 
-Check it out [here](https://wokwi.com/). And for the documentation, take a look [here](https://docs.wokwi.com/).
+Check it out [here](https://wokwi.com/). For the documentation, take a look [here](https://docs.wokwi.com/).
