@@ -10,7 +10,7 @@ The output of the 16-bit register is then converted to the
 There are no debouncing, latching or some other advanced
 features.
 
-![Block Diagram](BlockDiagram.png)
+![Block Diagram](https://github.com/wrkanet/tt06-keypad-decoder/blob/main/docs/BlockDiagram.png?raw=true)
 
 ## How to test
 
@@ -23,4 +23,4 @@ on the 7-segment display.
 
 Keypad matrix 4x4. For example:
 
-![Keypad matrix 4x4](KeypadMatrix4x4.png)
+![Keypad matrix 4x4](https://github.com/wrkanet/tt06-keypad-decoder/blob/main/docs/KeypadMatrix4x4.png?raw=true)
